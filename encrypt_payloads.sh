@@ -1,0 +1,1 @@
+gpg --encrypt --output ./systems/black_arch --recipient "IoT control" ./systems/black_arch_plaintext
